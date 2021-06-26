@@ -12,6 +12,6 @@ spec:
     helm:
       valueFiles:
       - values.yaml
-    path: templates
+    path: 
     repoURL: https://github.com/manojpannala/helm-chart-python.git
     targetRevision: HEAD
