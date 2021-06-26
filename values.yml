@@ -1,0 +1,8 @@
+namespace:
+  name: test
+ 
+image:
+  repository: manojpannala/python-helloworld-actions 
+  tag: latest
+
+replicaCount: 3
